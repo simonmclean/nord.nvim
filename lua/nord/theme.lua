@@ -106,6 +106,8 @@ theme.loadEditor = function()
 		SpellCap = { fg = nord.nord7_gui, bg = nord.none, style = italic_undercurl },
 		SpellLocal = { fg = nord.nord8_gui, bg = nord.none, style = italic_undercurl },
 		SpellRare = { fg = nord.nord9_gui, bg = nord.none, style = italic_undercurl },
+		WinBar = { fg = nord.nord4_gui, bg = nord.nord2_gui },
+		WinBarNC  = { fg = nord.nord4_gui, bg = nord.nord1_gui },
 		StatusLine = { fg = nord.nord4_gui, bg = nord.nord2_gui },
 		StatusLineNC = { fg = nord.nord4_gui, bg = nord.nord1_gui },
 		StatusLineTerm = { fg = nord.nord4_gui, bg = nord.nord2_gui },
